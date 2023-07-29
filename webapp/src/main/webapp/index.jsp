@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps CI-CD Learning</h1>
+    <h1>New user Register for Jenkins-Ansible CI-CD Learning</h1>
     <p>Please fill this form to create your new account.</p>
     <hr>
      
